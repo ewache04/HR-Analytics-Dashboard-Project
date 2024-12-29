@@ -93,15 +93,6 @@ This project showcases my ability to design, implement, and interpret data visua
 
 ---
 
-## Contact Information
-
-For further inquiries or collaboration opportunities, please contact me:
-
-- **Name:** Jeremiah Ochepo  
-- **Email:** [jochepo4growth@gmail.com](mailto:jochepo4growth@gmail.com)  
-
----
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to explore, adapt, and build upon this work.
